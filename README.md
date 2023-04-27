@@ -1,8 +1,6 @@
-# binder-pyspark
+# pySpark experimentation environment
 
-Demo of running Apache Spark  / pyspark from a Binder / repo2docker container.
+Available as a pre-configured Docker container, immediately runnable on https://mybinder.org.
 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ouseful-template-repos/binder-pyspark/master)
-
-The built image also contains an [Apache Toree](https://toree.apache.org/) kernel.
+Click this badge to run the environment:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PythonPredictions/big-data-course-pyspark-binder/HEAD?labpath=Big%20data%20course%20-%20Spark%20tutorial.ipynb)
