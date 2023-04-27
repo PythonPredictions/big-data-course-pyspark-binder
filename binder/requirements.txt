@@ -1,4 +1,6 @@
 pyspark
+pandas
+numpy
 toree
 
 jupyter-server-proxy
